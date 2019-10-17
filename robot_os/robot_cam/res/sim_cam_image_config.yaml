@@ -1,0 +1,8 @@
+%YAML:1.0
+#robot_cam_example
+#cam topic name
+cam_topic_name: "front_camera"
+#cam_parameter
+cam_fps: 30
+#image_path(support absolute and relative path)
+image_path : "res/1.bmp"

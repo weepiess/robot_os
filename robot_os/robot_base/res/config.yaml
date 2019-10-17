@@ -1,0 +1,4 @@
+%YAML:1.0
+#serialport dev_path
+dev_path : "/dev/xRMRobotSP"
+

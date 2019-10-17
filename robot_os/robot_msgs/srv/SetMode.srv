@@ -1,0 +1,6 @@
+#request constants
+int8 mode
+int32 data
+---
+#response constants
+bool success

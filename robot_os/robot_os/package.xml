@@ -1,0 +1,15 @@
+<package>
+    <name>robot_os</name>
+    <version>0.1.0</version>
+    <description>
+        Robot develop platform
+    </description>
+    <author>FWC</author>
+    <maintainer email="2383226319@qq.com">fwc</maintainer>
+    <license>GPL 3.0 </license>
+    <buildtool_depend>catkin</buildtool_depend>
+    <export>
+        <metapackage/>
+    </export>
+
+</package>

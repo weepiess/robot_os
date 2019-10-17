@@ -1,0 +1,4 @@
+%YAML:1.0
+#cam topic name
+cam_topic_name : "/front_camera/image_raw"
+

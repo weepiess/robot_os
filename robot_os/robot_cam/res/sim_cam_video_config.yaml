@@ -1,0 +1,7 @@
+%YAML:1.0
+#robot_cam_example
+#cam topic name
+cam_topic_name: "front_camera"
+
+#video_path(only support absolute path)
+video_path : "/home/gezp/catkin_ws/res/rune_res/whole_motion.avi"
