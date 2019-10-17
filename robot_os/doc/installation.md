@@ -72,11 +72,11 @@ sudo apt-get install libgoogle-glog-dev
 
 __下载：__
 
-在工作录下，使用git下载RoboMasterOS包
+在工作录下，使用git下载Robot_os包
 
 ```bash
 cd ~/catkin_ws/src
-git clone https://gitlab.com/robomaster-os/rmos_public/robomaster_os.git
+https://github.com/weepiess/robot_os.git
 ```
 
 __编译：__
