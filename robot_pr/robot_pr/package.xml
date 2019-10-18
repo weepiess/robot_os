@@ -1,0 +1,15 @@
+<package>
+    <name>robot_pr</name>
+    <version>0.1.0</version>
+    <description>
+        sentry robot of uestc
+    </description>
+    <author>RM1.5</author>
+    <maintainer email="1418555317@qq.com">wyx</maintainer>
+    <license>GPL 3.0 </license>
+    <buildtool_depend>catkin</buildtool_depend>
+    <export>
+        <metapackage/>
+    </export>
+
+</package>

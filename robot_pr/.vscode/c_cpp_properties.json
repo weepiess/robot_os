@@ -1,0 +1,29 @@
+{
+    "configurations": [
+        {
+            "browse": {
+                "databaseFilename": "",
+                "limitSymbolsToIncludedHeaders": true
+            },
+            "includePath": [
+                "/home/weepies/catkin_ws/devel/include",
+                "/opt/ros/kinetic/include",
+                "/home/weepies/catkin_ws/src/robot_os/robot_base/include",
+                "/home/weepies/catkin_ws/src/robot_pr/robot_base_pr/include",
+                "/home/weepies/catkin_ws/src/robot_os/robot_cam/include",
+                "/home/weepies/catkin_ws/src/robot_pr/robot_core/include",
+                "/home/weepies/catkin_ws/src/robot_os/robot_tool/include",
+                "/home/weepies/catkin_ws/src/robot_pr/robot_tool_pr/include",
+                "/home/weepies/catkin_ws/src/robot_os/task_image_related/include",
+                "/home/weepies/catkin_ws/src/using_markers/include",
+                "/usr/include"
+            ],
+            "name": "Linux",
+            "intelliSenseMode": "gcc-x64",
+            "compilerPath": "/usr/bin/clang-6.0",
+            "cStandard": "c11",
+            "cppStandard": "c++17"
+        }
+    ],
+    "version": 4
+}
