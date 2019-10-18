@@ -5,7 +5,7 @@
 ///@brief: ubuntu 下通用串口模块头文件
 ///实现串口通信。参考RM2017@uestc代码
 ///@vesion 1.0
-///@author: fwc
+///@author: gezp
 ///@date: 2017.12.8
 ///修订历史：
 /// 12.19: 参考2017RM及网上开源代码

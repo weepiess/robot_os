@@ -68,6 +68,17 @@ source ~/.bashrc
 sudo apt-get install libgoogle-glog-dev
 ```
 
+安装opencv3.4.3
+
+下载opencv3.4.3源码
+```bash
+cd /${opencv3.4.3_dir}
+mkdir build
+cmake ..
+make
+sudo make install
+```
+
 ## 3.使用RobotOS
 
 __下载：__

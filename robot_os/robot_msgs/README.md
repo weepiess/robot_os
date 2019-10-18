@@ -2,7 +2,7 @@
 
 ## 1.简介
 
-robot_msgs是RoboMasterOS 中的一个基础功能包，提供了相关基础消息定义
+robot_msgs是RobotOS 中的一个基础功能包，提供了相关基础消息定义
 
 ## 2.msg文件
 
@@ -27,7 +27,4 @@ __任务信息__
 - 无
 
 ### 5.维护者及开源许可证
-
-- gezp 1350824033@qq.com
-
 robot_cam provided under GPL-v3.
