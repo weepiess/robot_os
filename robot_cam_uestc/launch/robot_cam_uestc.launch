@@ -1,0 +1,6 @@
+<launch>
+
+<node pkg="robot_cam_uestc" type="mind_vision_cam_node" name="mindvision_cam"
+    respawn="true" output="screen"/>
+
+</launch>
