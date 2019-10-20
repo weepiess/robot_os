@@ -4,7 +4,6 @@ project(robot_cam_uestc)
 ## Compile as C++11, supported in ROS Kinetic and newer
 set(CMAKE_CXX_STANDARD 11)
 SET(CMAKE_MODULE_PATH ${PROJECT_SOURCE_DIR}/cmake)
-
 ## Find catkin macros and libraries
 ## if COMPONENTS list like find_package(catkin REQUIRED COMPONENTS xyz)
 ## is used, also find other catkin packages
@@ -12,7 +11,6 @@ find_package(catkin REQUIRED COMPONENTS
     robot_cam
     robot_tool
 )
-
 find_package(MVSDK REQUIRED)
 
 catkin_package(
